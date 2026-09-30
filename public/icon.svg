@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#14402a" />
+  <circle cx="256" cy="256" r="170" fill="none" stroke="#34d399" stroke-width="24" stroke-linecap="round" stroke-dasharray="16 24" />
+  <!-- Clock hands -->
+  <circle cx="256" cy="256" r="140" fill="#0f2f1f" stroke="#10b981" stroke-width="12" />
+  <polyline points="256,160 256,256 320,256" fill="none" stroke="#ffffff" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Center dot -->
+  <circle cx="256" cy="256" r="14" fill="#34d399" />
+  <!-- Checkmark badge at bottom right -->
+  <circle cx="370" cy="370" r="80" fill="#10b981" stroke="#14402a" stroke-width="16" />
+  <polyline points="335,370 360,395 410,345" fill="none" stroke="#ffffff" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

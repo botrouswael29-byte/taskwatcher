@@ -1,0 +1,6 @@
+{
+  "name": "Task Watcher",
+  "description": "Modern Android productivity and daily planner combining calendar, tasks, habits, water, creatine, and AI personal assistant.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
